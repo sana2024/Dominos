@@ -1,0 +1,4 @@
+#Thu Sep 12 17:19:44 AST 2024
+base.0=/Users/sanaomer/dominosTest/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

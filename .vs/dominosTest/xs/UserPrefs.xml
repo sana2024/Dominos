@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{4F98D6F9-4E86-1CBB-0945-B376A6F0BEDA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Game.cs">
+    <Files>
+      <File FileName="Assets/Scripts/DominoPiece.cs" Line="18" Column="1" />
+      <File FileName="Assets/Scripts/Session.cs" />
+      <File FileName="Assets/Scripts/DominoButton.cs" />
+      <File FileName="Assets/Scripts/DominoPlaceHolder.cs" />
+      <File FileName="Assets/Scripts/DragDrop.cs" />
+      <File FileName="Assets/Scripts/Game.cs" Line="489" Column="31" />
+      <File FileName="Assets/Scripts/Player.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="dominosTest" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2884ba24-ecbf-46ae-b1e9-27d1a1b5840c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
